@@ -3,6 +3,7 @@
 ## Description
 
 This project provides a MySQL database schema to manage orders, customers, products, and shipments for an e-commerce platform. It supports tracking order statuses, shipping details, and customer information.
+![Image](./Screenshot%202025-05-09%20at%2016.46.20.png)
 
 ## Setup
 
@@ -22,3 +23,5 @@ This project provides a MySQL database schema to manage orders, customers, produ
      - Table relationships (1-1, 1-M, M-M where needed)
      - Well-structured relational database design for a real-world use case
      - Must be well-commented
+
+## Database Schema
