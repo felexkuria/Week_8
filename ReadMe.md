@@ -1,4 +1,3 @@
-````markdown
 # E-commerce Order Management System
 
 ## Description
@@ -9,12 +8,10 @@ This project provides a MySQL database schema to manage orders, customers, produ
 
 1. Clone the repository.
 2. Import the SQL file into MySQL:
+
    ```bash
    mysql -u [username] -p ECommerceOrderManagement < ecommerce_order_management.sql
    ```
-````
-
-![MarkDown](./Screenshot%202025-05-09%20at%2016.46.20.png)
 
 3. The repo must include:
 
@@ -25,7 +22,3 @@ This project provides a MySQL database schema to manage orders, customers, produ
      - Table relationships (1-1, 1-M, M-M where needed)
      - Well-structured relational database design for a real-world use case
      - Must be well-commented
-
-```
-
-```
